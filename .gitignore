@@ -2,6 +2,7 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
+<script src="http://127.0.0.1:5005/xook.js"></script>
 /.idea/libraries
 .DS_Store
 /build
